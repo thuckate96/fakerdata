@@ -1,0 +1,16 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "my test faker data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thuc kate",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "faker": "^4.1.0",
+    "mysql": "^2.13.0"
+  }
+}
